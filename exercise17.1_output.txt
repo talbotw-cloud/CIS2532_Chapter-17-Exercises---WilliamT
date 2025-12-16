@@ -1,0 +1,48 @@
+=== 17.1(a) Authors' Last Names (Descending Order) ===
+Wald
+Quirk
+Deitel
+Deitel
+Deitel
+
+=== 17.1(b) Book Titles (Ascending Order) ===
+Android 6 for Programmers
+Android How to Program
+C How to Program
+C++ How to Program
+Internet & WWW How to Program
+Intro to Python for CS and DS
+Java How to Program
+Visual Basic 2012 How to Program
+Visual C# How to Program
+Visual C++ How to Program
+
+=== 17.1(c) Books for a Specific Author (INNER JOIN) ===
+('Android 6 for Programmers', '2016', '0134289366')
+('Android 6 for Programmers', '2016', '0134289366')
+('Android How to Program', '2017', '0134444302')
+('Android How to Program', '2017', '0134444302')
+('C How to Program', '2016', '0133976890')
+('C How to Program', '2016', '0133976890')
+('C++ How to Program', '2017', '0134448235')
+('C++ How to Program', '2017', '0134448235')
+('Internet & WWW How to Program', '2012', '0132151006')
+('Internet & WWW How to Program', '2012', '0132151006')
+('Internet & WWW How to Program', '2012', '0132151006')
+('Intro to Python for CS and DS', '2020', '0135404673')
+('Intro to Python for CS and DS', '2020', '0135404673')
+('Java How to Program', '2018', '0134743350')
+('Java How to Program', '2018', '0134743350')
+('Visual Basic 2012 How to Program', '2014', '0133406954')
+('Visual Basic 2012 How to Program', '2014', '0133406954')
+('Visual Basic 2012 How to Program', '2014', '0133406954')
+('Visual C# How to Program', '2017', '0134601548')
+('Visual C# How to Program', '2017', '0134601548')
+('Visual C++ How to Program', '2008', '0136151574')
+('Visual C++ How to Program', '2008', '0136151574')
+
+=== 17.1(d) Insert a New Author ===
+Inserted author: John Smith
+
+=== 17.1(e) Insert a New Title for the New Author ===
+Inserted new title 'Python for Everyone' for author John Smith
